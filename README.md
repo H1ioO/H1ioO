@@ -17,10 +17,7 @@
 
 ## 📂 Repositories récents & projets
 
-Voici deux de mes repos principaux :
-
-- **Naeruto**  
-  Mon repository de configuration de profil GitHub. :contentReference[oaicite:0]{index=0}
+Voici le repo principaux que j'utilise pour mes bots ! :
 
 - **discord.js** *(fork du repo officiel)*  
   Je contribue / maintiens certaines parties de cette bibliothèque JavaScript pour Discord. :contentReference[oaicite:1]{index=1}
