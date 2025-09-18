@@ -20,7 +20,7 @@
 Voici le repo principaux que j'utilise pour mes bots ! :
 
 - **discord.js** *(fork du repo officiel)*  
-  [@discord.js](https://github.com/discord.js)
+  [@discord.js](https://github.com/discordjs)
   
 ---
 
