@@ -20,8 +20,8 @@
 Voici le repo principaux que j'utilise pour mes bots ! :
 
 - **discord.js** *(fork du repo officiel)*  
-  Je contribue / maintiens certaines parties de cette bibliothèque JavaScript pour Discord. :contentReference[oaicite:1]{index=1}
-
+  [@discord.js](https://github.com/discord.js)
+  
 ---
 
 ## 🛠 Compétences techniques
