@@ -34,7 +34,7 @@ Voici le repo principaux que j'utilise pour mes bots ! :
 
 ## 📫 Me contacter
 
-- **GitHub** : [@NowaxDev](https://github.com/H1ioO)  
+- **GitHub** : [@H1ioO](https://github.com/H1ioO)  
 - Tu peux aussi m’envoyer un message ici-même si tu veux discuter d’une idée ou d’une collaboration !
 
 ---
