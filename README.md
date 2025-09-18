@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Nowax
+# 👋 Salut, je suis H1ioO
 
 **Développeur** passionné, spécialisé dans les bots Discord en *JavaScript*. Je parle **français** et **anglais**.
 
@@ -34,7 +34,7 @@ Voici le repo principaux que j'utilise pour mes bots ! :
 
 ## 📫 Me contacter
 
-- **GitHub** : [@NowaxDev](https://github.com/NowaxDev)  
+- **GitHub** : [@NowaxDev](https://github.com/H1ioO)  
 - Tu peux aussi m’envoyer un message ici-même si tu veux discuter d’une idée ou d’une collaboration !
 
 ---
